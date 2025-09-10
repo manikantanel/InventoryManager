@@ -1,0 +1,4 @@
+[submodule "inventory-manager"]
+	path = inventory-manager
+	url = https://github.com/manikantanel/InventoryManager
+	branch = main
